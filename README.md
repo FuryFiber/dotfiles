@@ -1,3 +1,5 @@
+# pictures
+![](/Pictures/Rice-may23-compressed.png)
 # dotfiles
 Configuration for my pop-os laptop and desktop.
 These are just the config files I could find. There is a lot missing but idk how to add those.
