@@ -127,8 +127,8 @@ eval "$(zoxide init bash)"
 #add meson to path
 export PATH=$HOME/.local/bin:$PATH
 
-
 ####################################################################################
 #                                  ALIASES                                         #
 ####################################################################################
 alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
+alias wireshark='wireshark -style Adwaita-Dark'
