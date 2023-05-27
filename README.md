@@ -9,3 +9,5 @@ things that are missing:
   - fonts
   - firefox setup: https://github.com/andreasgrafen/cascade with https://furyfiber.github.io/startpage/ as startpage using https://github.com/PrettyCoffee/yet-another-generic-startpage.
     - also a lot of firefox extensions  
+
+  - probably a lot more but i cant think of them right now
